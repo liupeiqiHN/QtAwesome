@@ -41,7 +41,7 @@ MainWindow::MainWindow(QWidget* parent) :
 
 		QVariantMap options;
 		options.insert("anim", QVariant::fromValue(new QtAwesomeAnimation(beerButton)));
-		beerButton->setIcon(awesome->icon("fas beer", options));
+		beerButton->setIcon(awesome->icon("fas champagne-glasses", options));
 	}
 
 	// a simple beer checkbox button
@@ -54,7 +54,7 @@ MainWindow::MainWindow(QWidget* parent) :
 		options.insert("color", QColor(Qt::green));
 		options.insert("text-off", QString(QChar(fa::square)));
 		options.insert("color-off", QColor(Qt::red));
-		toggleButton->setIcon(awesome->icon("far check-square", options));
+		toggleButton->setIcon(awesome->icon("far square-check", options));
 	}
 
 	QStandardItemModel* model = new QStandardItemModel(this);
