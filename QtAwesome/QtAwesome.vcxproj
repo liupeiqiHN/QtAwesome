@@ -92,7 +92,7 @@
     <QtMoc Include="QtAwesome.h" />
   </ItemGroup>
   <ItemGroup>
-    <QtRcc Include="QtAwesome.qrc" />
+    <QtRcc Include="QtAwesomeFree.qrc" />
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="QtAwesomeAnim.h" />

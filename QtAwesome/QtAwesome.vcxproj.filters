@@ -31,7 +31,7 @@
     </QtMoc>
   </ItemGroup>
   <ItemGroup>
-    <QtRcc Include="QtAwesome.qrc">
+    <QtRcc Include="QtAwesomeFree.qrc">
       <Filter>Resource Files</Filter>
     </QtRcc>
   </ItemGroup>
