@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtAwesome", "QtAwesome\QtAwesome.vcxproj", "{B80370E4-C95F-4052-A4A8-DB2B52A2D841}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtAwesomeSample", "QtAwesomeSample\QtAwesomeSample.vcxproj", "{D6544B6B-863E-4B0C-9484-6484ED11D24B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B80370E4-C95F-4052-A4A8-DB2B52A2D841}.Debug|x64.ActiveCfg = Debug|x64
+		{B80370E4-C95F-4052-A4A8-DB2B52A2D841}.Debug|x64.Build.0 = Debug|x64
+		{B80370E4-C95F-4052-A4A8-DB2B52A2D841}.Release|x64.ActiveCfg = Release|x64
+		{B80370E4-C95F-4052-A4A8-DB2B52A2D841}.Release|x64.Build.0 = Release|x64
+		{D6544B6B-863E-4B0C-9484-6484ED11D24B}.Debug|x64.ActiveCfg = Debug|x64
+		{D6544B6B-863E-4B0C-9484-6484ED11D24B}.Debug|x64.Build.0 = Debug|x64
+		{D6544B6B-863E-4B0C-9484-6484ED11D24B}.Release|x64.ActiveCfg = Release|x64
+		{D6544B6B-863E-4B0C-9484-6484ED11D24B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A64C10D6-CBB0-4E4E-9003-9B9B214CEE03}
+	EndGlobalSection
+EndGlobal
